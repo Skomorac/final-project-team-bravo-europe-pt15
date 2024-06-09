@@ -1,6 +1,6 @@
-# WebApp boilerplate with React JS and Flask API
+# Final Project Team Bravo Europe
 
-Build web applications using React.js for the front end and python/flask for your backend API.
+This project is a full-stack web application developed using React.js for the front end and Python/Flask for the backend API. It includes user authentication, dynamic content display, and integration with external APIs for advanced functionalities like background removal, AI removal, AI replace, AI upscale.
 
 - Documentation can be found here: https://start.4geeksacademy.com/starters/react-flask
 - Here is a video on [how to use this template](https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b)
@@ -9,7 +9,15 @@ Build web applications using React.js for the front end and python/flask for you
 - Use of .env file.
 - SQLAlchemy integration for database abstraction.
 
-### 1) Installation:
+### 1) Features:
+* User authentication (login, signup, logout, forgot password, reset password)
+* Dynamic content rendering
+* Manipulation of image using external APIs, Cloudinary AI
+* Payment with PayPal
+* User options with available credits, transformed images
+* Responsive design using Bootstrap
+
+### 2) Installation:
 
 > If you use Github Codespaces (recommended) or Gitpod this template will already come with Python, Node and the Posgres Database installed. If you are working locally make sure to install Python 3.10, Node
 
